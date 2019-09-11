@@ -1,0 +1,68 @@
+	id	gender	age	gpa	sat	section	final	project
+0	618027	2	27	2.59	700.0	3.0	75	69
+1	691694	2	33	3.49	950.0	4.0	89	81
+2	661363	2	31	3.78	1172.0	5.0	75	86
+4	624861	2	27	3.47	1099.0	3.0	89	94
+5	673174	2	32	3.36	1115.0	5.0	87	89
+6	681530	2	26	3.14	1039.0	3.0	94	97
+7	631316	2	27	2.8	720.0	3.0	81	91
+9	664779	2	25	3.49	1195.0	5.0	89	80
+11	642612	2	24	3.72	1308.0	5.0	87	79
+12	654740	2	30	3.08	850.0	4.0	96	97
+13	614150	2	26	3.9	1440.0	4.0	97	90
+14	610145	2	30	3.33	1195.0	5.0	89	92
+15	611050	2	26	1.78	500.0	1.0	53	56
+17	667689	1	26	3.36	1111.0	3.0	60	67
+18	658905	1	25	3.47	1152.0	4.0	71	79
+20	670432	1	23	3.34	1130.0	1.0	82	87
+22	660608	1	27	3.1	1104.0	3.0	56	60
+23	653457	1	28	3.38	1355.0	3.0	69	76
+24	675282	1	29	3.09	1090.0	5.0	78	89
+25	638785	1	23	3.59	1250.0	1.0	97	99
+27	641697	1	28	3.02	1070.0	5.0	46	52
+28	686836	1	28	3.45	1306.0	5.0	86	79
+29	654301	1	30	3.49	3.0	2.0	92	92
+30	615986	1	30	3.54	1350.0	5.0	91	87
+
+
+Ttest_indResult(statistic=-1.6364880163095339, pvalue=0.1159644309641248)
+Explanation: The p-value shows that there is a 11.59% of probability that the results from this experiment happened by chance. Since it is greater than 5%, this p-value is not accepted to mean the data is valid.
+
+The corrolation between final and project is: 0.898631551354, which means that final and project is highly corrolated since it is close to 1.
+
+               sum_sq    df         F    PR(>F)
+section    626.462302   4.0  0.700962  0.600854
+Residual  4245.162698  19.0       NaN       NaN
+This tells us that there is no significant difference in the group means for final and section.
+
+For final: 
+Mean: 80.375
+Standard deviation: 14.2472585082
+Minimum: 46
+Maximum: 97
+Median: 86.5
+Variance: 202.984375
+
+For project: 
+Mean: 82.0
+Standard deviation: 12.770408503
+Minimum: 52
+Maximum: 99
+Median: 86.5
+Variance: 163.083333333
+
+For gpa: 
+Mean: 3.28166666667
+Standard deviation: 0.42847273996
+Minimum: 1.78
+Maximum: 3.9
+Median: 3.37
+Variance: 0.183588888889
+
+For sat: 
+Mean: 1050.16666667
+Standard deviation: 307.981014927
+Minimum: 3.0
+Maximum: 1440.0
+Median: 1113.0
+Variance: 94852.3055556

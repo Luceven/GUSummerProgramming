@@ -1,0 +1,25 @@
+AQI	DateForecast	ParameterName	ReportingArea	StateCode	Zipcode
+47	2018-08-04 	O3	Metropolitan Washington	DC	20002
+38	2018-08-04 	PM2.5	Metropolitan Washington	DC	20002
+58	2018-08-05 	O3	Metropolitan Washington	DC	20002
+46	2018-08-05 	PM2.5	Metropolitan Washington	DC	20002
+87	2018-08-06 	O3	Metropolitan Washington	DC	20002
+50	2018-08-06 	PM2.5	Metropolitan Washington	DC	20002
+80	2018-08-07 	O3	Metropolitan Washington	DC	20002
+50	2018-08-07 	PM2.5	Metropolitan Washington	DC	20002
+-1	2018-08-04 	O3	Canton/Massillon	OH	44691
+-1	2018-08-05 	O3	Canton/Massillon	OH	44691
+46	2018-08-04 	O3	NW Coastal LA	CA	90210
+42	2018-08-04 	PM2.5	NW Coastal LA	CA	90210
+19	2018-08-04 	PM10	NW Coastal LA	CA	90210
+20	2018-08-04 	NO2	NW Coastal LA	CA	90210
+15	2018-08-04 	CO	NW Coastal LA	CA	90210
+67	2018-08-05 	O3	NW Coastal LA	CA	90210
+42	2018-08-05 	PM2.5	NW Coastal LA	CA	90210
+19	2018-08-05 	PM10	NW Coastal LA	CA	90210
+20	2018-08-05 	NO2	NW Coastal LA	CA	90210
+15	2018-08-05 	CO	NW Coastal LA	CA	90210
+-1	2018-08-04 	O3	Denver	CO	80302
+-1	2018-08-04 	PM2.5	Denver	CO	80302
+-1	2018-08-05 	O3	Denver	CO	80302
+-1	2018-08-05 	PM2.5	Denver	CO	80302
